@@ -10,3 +10,6 @@ bims_tour_coup_eqp	carte	10
 bims_tour_coup_orga	carte	10
 
 bims_tour_coup : Nom	Prénom	Promotion	Affiliation 
+bims_tour_coup_orga : Nom	Prénom	Promotion	Affiliation 
+
+lien des fichiers source https://github.com/Lucien-Piat/bism_day_sign/tree/main/src
