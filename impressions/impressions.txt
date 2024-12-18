@@ -1,0 +1,12 @@
+nom	format	nombre
+bims_map	A0	1
+bims_planing	A1	3
+bism_entre	A1	1
+bims_anonces	A1	1
+print_A3	A3	1*7
+print_A4	A4	1*6
+bims_tour_coup	carte	100
+bims_tour_coup_eqp	carte	10
+bims_tour_coup_orga	carte	10
+
+bims_tour_coup : Nom	Prénom	Promotion	Affiliation 
